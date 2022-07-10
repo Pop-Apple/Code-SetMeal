@@ -1,19 +1,14 @@
-## Reference
-[Qiita](https://qiita.com/nnahito/items/ad1428a30738b3d93762)💚
+## Purpose 🤡
 
-## Python Tkinter Example Code 🤔
-````python
-import _tkinter
-import tkinter
+June.1 Acquire basic knowledge while also practicing Python.  
+I first touched python in 2022  
+I made a calculator for the first time  
+I noticed At this level If it's no good
 
-root = tkinter.Tk()
-root.mainloop()
-````
+## Repository
 
-## Preview 💌
-<img width="300" alt="Temp" src="https://user-images.githubusercontent.com/101918076/171429572-0ba3072c-01f2-4e63-9ebe-183d9f15279d.png">
+Hello Python World
 
-## Message & License 🌺
-Pythonの練習 (Tkinter)
+## License
 
-進捗状況をここのリポジトリにアップするかもしれません
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
