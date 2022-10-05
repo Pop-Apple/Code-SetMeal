@@ -1,9 +1,7 @@
 ## Purpose 🤡
 
-June.1 Acquire basic knowledge while also practicing Python.  
-I first touched python in 2022  
-I made a calculator for the first time  
-I noticed At this level If it's no good
+Python practice and  
+Saving Recipes for Various Python Codes  
 
 ## Repository
 
