@@ -1,0 +1,12 @@
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\bin\Debug\Rock-Scissors-Papaer-Game.exe.config
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\bin\Debug\Rock-Scissors-Papaer-Game.exe
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\bin\Debug\Rock-Scissors-Papaer-Game.pdb
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\obj\Debug\Rock-Scissors-Papaer-Game.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\obj\Debug\Rock-Scissors-Papaer-Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\obj\Debug\Rock_Scissors_Papaer_Game.MainForm.resources
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\obj\Debug\Rock_Scissors_Papaer_Game.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\obj\Debug\Rock-Scissors-Papaer-Game.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\obj\Debug\Rock-Scissors-Papaer-Game.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\obj\Debug\Rock-Scissors-Papaer-Game.exe
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\obj\Debug\Rock-Scissors-Papaer-Game.pdb
+C:\Users\Apple_kun\Desktop\Rock-Scissors-Papaer-Game\Rock-Scissors-Papaer-Game\obj\Debug\Rock_Scissors_Papaer_Game.AboutBox1.resources
