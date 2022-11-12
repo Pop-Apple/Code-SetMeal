@@ -1,2 +1,2 @@
-# `.gitattributes` Example: `.xml` to python Classify
-*.xml linguist-language=python
+# `.gitattributes` Example: `.xml` to auto Classify
+*.xml linguist-language=auto
