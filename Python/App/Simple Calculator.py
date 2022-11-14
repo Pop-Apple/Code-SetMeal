@@ -33,6 +33,6 @@ def Caluc():
         print('')
         print(num1 / num2)
 
-    input()
+    Caluc()
 
 Caluc()
