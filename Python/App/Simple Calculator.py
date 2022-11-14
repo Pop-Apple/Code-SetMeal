@@ -4,10 +4,10 @@ from ssl import OPENSSL_VERSION_INFO
 from urllib import robotparser
 import sys
 
-def Caluc():
-
     print("シンプル電卓！"+'\n')
 
+def Caluc():
+    
     num1 = int(input("Value1："))
     num2 = int(input("Value2："))
 
