@@ -6,32 +6,8 @@ If you want to add interesting codes, we are waiting for your [pull request](htt
 
 ## SetMeal
 
-* Python
-```python
-Print('Hello World')
 ```
-
-* C++
-```cpp
-#include <iostream>
-
-int main()
-{
-    std::cout << "Hello World!\n";
-}
-```
-
-* C#
-```Csharp
-using System;
-
-class HelloWorld 
-{
-  public static void Main() 
-  {
-    Console.WriteLine("Hello World");
-  }
-}
+https://github.com/Pop-Apple/Code-SetMeal.git
 ```
 
 ### Purpose
