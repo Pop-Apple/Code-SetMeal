@@ -1,0 +1,3 @@
+﻿  Source2.c
+Source2.obj : error LNK2005: main は既に Source1.obj で定義されています。
+C:\Users\Apple_kun\Desktop\Sample07\x64\Debug\Sample07.exe : fatal error LNK1169: 1 つ以上の複数回定義されているシンボルが見つかりました。
