@@ -3,7 +3,7 @@
 public string ToHex (string inp)
 {
   string outp = string.Empty;
-  char[] value = inp.ToCharArry();
+  char[] value = inp.ToCharArray();
   foreach (char L in value)
   {
     int V = Convert.ToInt32(L);
