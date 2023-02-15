@@ -1,5 +1,3 @@
-﻿
-# XMLの中のコード名を表示
 Title = '\n' + '【 XML Entry Name Viewer 】'
 
 print(Title)
