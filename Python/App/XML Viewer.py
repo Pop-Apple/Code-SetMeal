@@ -7,6 +7,8 @@ def Re():
 	print('\n' + '[ Enter The Directory ]' + '\n')
 
 	path=input("> ")
+	
+	print('　')
 
 	with open(path,encoding="utf-8") as f:
 		s=f.readlines()
