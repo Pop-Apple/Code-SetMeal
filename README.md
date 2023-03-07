@@ -7,7 +7,7 @@ If you want to add interesting codes, we are waiting for your [pull request](htt
 ## SetMeal
 
 ```
-https://github.com/Pop-Apple/Code-SetMeal.git
+git clone https://github.com/Pop-Apple/Code-SetMeal.git
 ```
 
 ### Purpose
