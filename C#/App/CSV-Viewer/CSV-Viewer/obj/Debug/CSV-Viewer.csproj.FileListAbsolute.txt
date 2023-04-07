@@ -1,0 +1,11 @@
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\bin\Debug\CSV-Viewer.exe.config
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\bin\Debug\CSV-Viewer.exe
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\bin\Debug\CSV-Viewer.pdb
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\obj\Debug\CSV-Viewer.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\obj\Debug\CSV-Viewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\obj\Debug\CSV_Viewer.Main.resources
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\obj\Debug\CSV_Viewer.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\obj\Debug\CSV-Viewer.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\obj\Debug\CSV-Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\obj\Debug\CSV-Viewer.exe
+C:\Users\Apple_kun\Desktop\CSV-Viewer\CSV-Viewer\obj\Debug\CSV-Viewer.pdb
