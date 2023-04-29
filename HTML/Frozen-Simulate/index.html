@@ -1,0 +1,78 @@
+<html>
+
+    <head>
+
+        <!--Screen DPI-->
+        <meta name="viewport" content="width=device-width">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+
+        <!--No Zoom-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+        <title>Frozen Simulator</title>
+
+    </head>
+
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./css/style.css">
+
+    <script src="./script.js"></script>
+
+    <body>
+        
+        <div class="Description" align="center">
+            <p class="Menu">Username 「 Sakamochan 」</p>
+            <p class="Menu">Password 「 test-15 」</p>
+        </div>
+
+        <br>
+
+        <div class="LoginForm" align="center">
+
+            <br>
+            <br>
+
+            <img class="InstagramLogo" src="./assets/Instagram.png" alt="Instagram Logo" width="170px" height="50px">
+
+            <br>
+            <br>
+            <br>
+
+            <input class="InputTextBox" maxlength="10" id="UserName" type="text" placeholder="電話番号、ユーザーネーム、メールアドレス">
+
+            <input class="OutputTextBox" type="password" maxlength="7" id="Password" placeholder="パスワード">
+
+            <br>
+
+            <button class="LoginButton" id="Login" onclick="NotFoundError()" ontouchstart>ログイン</button>
+            
+            <hr>
+
+            <p class="Info">または</p>
+
+            <br>
+            <br>
+
+            <img class="FacebookLogo" src="./assets/Facebook.png" alt="Facebook" width="16px" height="16px" oncontextmenu="return false;"　onselectstart="return false;" onmousedown="return false;"/>
+
+            <p class="FacebookInfo" ontouchstart href="#">Facebookでログイン</p>
+
+            <p class="UnknownPass" ontouchstart href="#">パスワードを忘れた場合</p>
+
+        </div>
+
+        <br>
+
+        <div class="Account">
+
+            <p align="left" class="check">アカウントをお持ちでないですか？</p>
+            
+            <p align="right" ontouchstart class="sub">登録する</p>
+
+        </div>
+
+        <p class="Copyright" ontouchstart onclick="Github()" align="center">Copyright © Sakamochan 2023</p>
+        
+    </body>
+
+</html>

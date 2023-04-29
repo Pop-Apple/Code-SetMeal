@@ -1,0 +1,84 @@
+<html>
+    <head>
+        
+        <!--タイトル名-->
+        <title>OZ</title> 
+        
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+
+        <!--スマホでのDPI調整-->
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+        
+        <!--No Zoom-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    </head>
+
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="./favicon.ico">
+    <script src="script.js"></script>
+
+    <body align="center">
+
+    <div class="MainTab">
+
+        <!--ロード時に音声の再生-->
+        <audio autoplay src="./SoundEffect/OZ_operating.mp"></audio>
+
+        <audio id="audio">
+            <source src="./SoundEffect/OZ_operating_Max.mp3" type="audio/mp3">
+        </audio>
+
+        <p>
+            <img class="Logo" src="./Images/Welcome.png" alt="386x646" width="170" height="200"　oncontextmenu="return false;"　onselectstart="return false;" onmousedown="return false;"/>
+        </p>
+
+        <h2>Welcome!</h2>
+
+        <br>
+
+        <input maxlength="12"  class="TextBox" size="20" placeholder="username" type="text" id="Username">
+
+        <br>
+        <br>
+
+        <input maxlength="12" class="TextBox" size="20" placeholder="password" type="text" id="Password">
+
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <button href="#" class="LoginButton" onclick="Login()">Login</button>
+
+        <br>
+        <br>
+
+        <button href="#" class="PlayButton" onclick="PlayAudio()">Play</button>
+
+        <br>
+        <br>
+        <br>
+
+        <hr width="280px">
+
+        <p class="CopyrightLable" onclick="">Copyright © Pop Apple 2022</p>
+
+    </div>
+
+        <script>
+            
+            //音声の関数
+            function PlayAudio() {
+                document.getElementById('audio').currentTime = 0;
+                document.getElementById('audio').play(); 
+            }
+
+            function Login() {
+                window.location.href = '#'
+            }
+
+        </script>
+    </body>
+</html>

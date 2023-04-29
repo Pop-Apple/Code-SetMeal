@@ -1,0 +1,192 @@
+/**********************************************************/
+
+/*メイン [始め]*/
+
+body {
+    user-select:none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:auto;
+    padding:auto;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.TextBox {
+    width: 200px;
+    height: 30px;
+}
+
+.MainTab {
+    align-items: center;
+    margin:auto;
+    padding:auto;
+}
+
+/**********************************************************/
+
+/*画像右クリック不可*/
+
+img {
+  pointer-events: none;
+}
+
+/*メイン [終了]*/
+
+/**********************************************************/
+
+/*修正済み [始め]*/
+
+.LoginButton {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 190px;
+    height: 40px;
+
+    /*デザイン*/
+
+    border-radius: 3px;
+    border: 1px solid;
+}
+.LoginButton:hover {
+    cursor: pointer;  
+    background-color: rgb(222, 222, 222);
+}
+
+.PlayButton {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    height:35px;
+
+    /*デザイン*/
+    
+    border-radius: 3px;
+    border: 1px solid;
+}
+.PlayButton:hover {
+    cursor: pointer;
+    background-color: rgb(222, 222, 222);
+}
+
+/*クリックアニメーション*/
+
+.LoginButton:active {
+  background-color: rgb(143, 203, 255);
+  color: white;
+
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: black;
+}
+.PlayButton:active {
+  background-color: rgb(255, 144, 211);
+  color: white;
+
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: black;
+}
+
+/*修正済み [終了]*/
+
+/**********************************************************/
+
+/*アニメーションの実行*/
+
+.Logo {
+    animation-name:zoomIn;
+    animation-duration:2s;
+    animation-fill-mode:forwards;
+    pointer-events: none;
+    opacity:0;
+    }
+    
+/*ロゴのズームイン*/
+
+    @keyframes zoomIn {
+        0% {
+          transform: scale(0.6);
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+          transform: scale(1);
+        }
+      }
+
+.TextBox {
+    animation-name:fadeInAnime;
+    animation-duration:1s;
+    animation-fill-mode:forwards;
+    opacity:0;
+    }
+        
+/*テキストボックスのフェードイン*/
+
+    @keyframes fadeInAnime{
+      from {
+        opacity: 0;
+      }
+        
+      to {
+        opacity: 1;
+      }
+    }
+
+/*ボタンのスライドインアニメーション*/
+
+.LoginButton {
+    animation: slideInRight 2s cubic-bezier(0.25, 1, 0.5, 1) 1 forwards;
+}
+.PlayButton {
+    animation: slideInLeft 2s cubic-bezier(0.25, 1, 0.5, 1) 1 forwards;
+}
+
+/*右からの処理*/
+
+@keyframes slideInRight {
+    0% {
+      transform: translateX(180px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+    }
+    40%,100% {
+      opacity: 1;
+    }
+  }
+
+/*左からの処理*/
+
+  @keyframes slideInLeft {
+    0% {
+      transform: translateX(-180px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+    }
+    40%,100% {
+      opacity: 1;
+    }
+  }
+
+/*著作権ラベルのマスキングアニメーション*/
+
+@keyframes TextSlide {
+    0% {
+      opacity: 0;
+      transform: scaleX(0) translateX(-5%);
+    }
+    30% {
+      transform: scaleX(1) translateX(0);
+    }
+    100% {
+      transform: scaleX(1) translateX(0);
+    }
+    30%, 100% {
+      opacity: 1;
+    }
+  }
+
+/**********************************************************/

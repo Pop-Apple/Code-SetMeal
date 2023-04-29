@@ -1,0 +1,285 @@
+body {
+    /*font*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    /*Desing*/
+    background-color: rgb(245, 245, 245);
+    user-select: none;
+
+    /**/
+    height: auto;
+}
+
+/***********************************************/
+
+.FacebookLogo {
+    pointer-events: none;
+}
+.InstagramLogo {
+    pointer-events: none;
+}
+
+/***********************************************/
+
+.Description {
+    /*border*/
+    border: 1px solid;
+    border-radius: 50px;
+    border-color: rgb(138, 187, 171);
+
+    /*Color*/
+    background-color: rgb(194, 255, 235);
+    color: rgb(33, 123, 93);
+
+    /*margin*/
+    margin-top: 25px;
+    margin-bottom: 0 auto;
+    margin-right: auto;
+    margin-left: auto;
+
+    /*Size*/
+    width: 350px;
+    height: 100px;
+}
+
+/***********************************************/
+
+.LoginForm {
+    /*Color*/
+    border: 1px solid;
+    border-color: black;
+    background-color: white;
+
+    /*Size*/
+    width: 350px;
+    height: 380px;
+
+    /*margin*/
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/***********************************************/
+
+.InputTextBox {
+    /*font*/
+    font-size: 10px;
+    text-align: center;
+
+    /*margin*/
+    margin-top: 5px;
+
+    /*Size*/
+    width: 260px;
+    height: 30px;
+
+    /*More*/
+    border: 1px solid;
+    border-color: rgb(186, 186, 186);
+}
+.OutputTextBox {
+     /*font*/
+     font-size: 10px;
+     text-align: center;
+
+     /*margin*/
+     margin-top: 5px;
+ 
+     /*Size*/
+     width: 260px;
+     height: 30px;
+ 
+     /*More*/
+     border: 1px solid;
+     border-color: rgb(186, 186, 186);   
+}
+
+/***********************************************/
+
+.LoginButton {
+    /*font*/
+    color: white;
+
+    /*margin*/
+    margin-top: 15px;
+
+    /*Size*/
+    width: 260px;
+    height: 35px;
+    cursor: pointer;
+
+    /*Design*/
+    border: 1px solid;
+    border-color: rgb(76, 171, 255);
+    border-radius: 4px;
+    background-color: rgb(76, 171, 255);
+}
+.LoginButton:hover {
+    background-color: rgb(55, 162, 255);
+}
+.LoginButton:active {
+    background-color: rgb(40, 114, 179)
+}
+
+/***********************************************/
+
+hr {
+    /*margin*/
+    margin-top: 25px;
+    margin-right: 45px;
+    margin-left: 45px;
+}
+
+/***********************************************/
+
+.Info {
+    /*font*/
+    font-size: 15px;
+
+    /*Color*/
+    color: rgb(120, 120, 120);
+    background-color: white;
+
+    /*Size*/
+    width: 90px;
+
+    /*margin*/
+    margin-top: -15;
+}
+
+/***********************************************/
+
+.FacebookLogo {
+    /*radius*/
+    border-radius: 3px;
+
+    /*margin*/
+    margin-right: 130;
+    margin-top: -35px;
+}
+.FacebookInfo {
+    /*font*/
+    font-size: 15px;
+
+    /*Color*/
+    color: rgb(37, 101, 157);
+
+    /*margin*/
+    margin-top: -36px;
+    margin-left: 35px;
+
+    /*Design*/
+    cursor: pointer;
+}
+.FacebookInfo:hover {
+    /*Color*/
+    color: rgb(113, 159, 199);
+}
+.FacebookInfo:active {
+    /*Color*/
+    color: rgb(37, 101, 157);
+}
+
+/***********************************************/
+
+.UnknownPass {
+    /*font*/
+    font-size: 10px;
+
+    /*Color*/
+    color: rgb(27, 78, 123);
+
+    /*Design*/
+    cursor: pointer;
+
+    /*margin*/
+    margin-top: -5px;
+}
+.UnknownPass:hover {
+    /*Color*/
+    color: rgb(134, 168, 197);
+}
+.UnknownPass:active {
+    color:rgb(27, 78, 123)
+}
+
+/***********************************************/
+
+.Account {
+    /*font*/
+    font-size: 12px;
+    
+    /*border*/
+    border: 1px solid;
+
+    /*Size*/
+    width: 350px;
+    height: 45px;
+
+    /*margin*/
+    margin-right: auto;
+    margin-left: auto;
+
+    /*Color*/
+    background-color: white;
+}
+
+.sub {
+    /*font*/
+    font-weight: bold;
+
+    /*Color*/
+    color: rgb(55, 162, 255);
+
+    /*Design*/
+    cursor: pointer;
+
+    /*margin*/
+    margin-top: -30;
+    margin-right: 55px;
+
+}
+.sub:hover {
+    /*Color*/
+    color: rgb(111, 188, 255);
+}
+.sub:active {
+    /*Color*/
+    color: rgb(39, 111, 175);
+}
+.Check {
+    /*font*/
+
+    /*Color*/
+
+    /*Design*/
+
+    /*margin*/
+    margin-top: 15;
+    margin-left: 50px;
+}
+
+/***********************************************/
+
+.Copyright {
+    /*Color*/
+    color: rgb(181, 181, 181);
+
+    /*margin*/
+    margin-top: 18px;
+    margin-right: auto;
+    margin-left: auto;
+
+    /*Design*/
+    cursor: pointer;
+}
+.Copyright:hover {
+    /*Color*/
+    color: rgb(130, 130, 130);
+}
+.Copyright:active {
+    /*Color*/
+    color: rgb(181, 181, 181);
+}
+
+/***********************************************/

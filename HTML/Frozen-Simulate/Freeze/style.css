@@ -1,0 +1,95 @@
+body {
+    /*font*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    background-color: rgb(245, 245, 245);
+    user-select: none;
+}
+
+/***********************************************/
+
+.ToDoButton {
+    /*font*/
+    color: white;
+    font-size: 16px;
+
+    /*margin*/
+    margin-top: 15px;
+
+    /*Size*/
+    width: 325px;
+    height: 45px;
+    cursor: pointer;
+
+    /*Design*/
+    border: 1px solid;
+    border-color: rgb(76, 171, 255);
+    border-radius: 4px;
+    background-color: rgb(76, 171, 255);
+}
+.ToDoButton:hover {
+    background-color: rgb(55, 162, 255);
+}
+.ToDoButton:active {
+    background-color: rgb(40, 114, 179)
+}
+
+/***********************************************/
+
+.Frozen {
+    /*Color*/
+    border: 1px solid;
+    border-color: black;
+    background-color: white;
+
+    /*Size*/
+    width: 350px;
+    height: 530px;
+
+    /*margin*/
+    margin-top: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+/***********************************************/
+
+.Title {
+    font-size: 20px;
+    font-weight: bolder;
+}
+.Report {
+    font-size: 13px;
+    color: rgb(154, 154, 154);
+}
+.one {
+    width: 350px;
+    margin-top: 20px;
+}
+.two {
+    width: 350px;
+    margin-top: 15px;
+}
+
+/***********************************************/
+
+.affect {
+    font-size: 15px;
+    margin-left: 15px;
+    font-weight: bolder;
+}
+
+/***********************************************/
+
+img {
+    margin-left: 25px;
+    pointer-events: none;
+}
+
+ .Guide{
+    text-align: left;
+    font-size: 13px;
+    margin-top: -3px;
+    margin-left: 80px;
+}
