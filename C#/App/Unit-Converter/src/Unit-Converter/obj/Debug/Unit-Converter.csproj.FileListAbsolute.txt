@@ -1,0 +1,11 @@
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\bin\Debug\Unit-Converter.exe.config
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\bin\Debug\Unit-Converter.exe
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\bin\Debug\Unit-Converter.pdb
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\obj\Debug\Unit-Converter.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\obj\Debug\Unit-Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\obj\Debug\Unit_Converter.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\obj\Debug\Unit_Converter.Source.resources
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\obj\Debug\Unit-Converter.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\obj\Debug\Unit-Converter.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\obj\Debug\Unit-Converter.exe
+C:\Users\Apple_kun\Desktop\Unit-Converter\Unit-Converter\obj\Debug\Unit-Converter.pdb
