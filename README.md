@@ -11,8 +11,9 @@ If you want to add interesting codes, we are waiting for your [pull request](htt
 - C++
 - C
 - Python
-
-Status
+- HTML
+- CSS
+- Javascript
 ```
 
 ## SetMeal
