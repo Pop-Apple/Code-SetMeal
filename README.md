@@ -20,13 +20,11 @@ If you want to add interesting codes, we are waiting for your [pull request](htt
 
 ### jump
 
-* [C#]()
-* [C++]()
-* [C]()
-* [Python]()
-* [HTML]()
-* [CSS]()
-* [Javascript]()
+* [C#](https://github.com/Pop-Apple/Code-SetMeal/tree/Delicious/C%23)
+* [C++](https://github.com/Pop-Apple/Code-SetMeal/tree/Delicious/C%2B%2B)
+* [C](https://github.com/Pop-Apple/Code-SetMeal/tree/Delicious/C)
+* [Python](https://github.com/Pop-Apple/Code-SetMeal/tree/Delicious/Python)
+* [HTML](https://github.com/Pop-Apple/Code-SetMeal/tree/Delicious/HTML)
 
 ## SetMeal
 
