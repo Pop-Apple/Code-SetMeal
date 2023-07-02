@@ -42,4 +42,4 @@ git clone https://github.com/Pop-Apple/Code-SetMeal.git
 
 ## License
 
-Released under [MIT LICENSE](https://github.com/Pop-Apple/Code-SetMeal/blob/main/LICENSE)
+Released under [Un](https://github.com/Pop-Apple/Code-SetMeal/blob/main/LICENSE) License
