@@ -51,5 +51,9 @@ Variable 'age' has type 'int'.
 Variable 'name' has type 'std::string'.
 ```
 
-License
+## License
 This project is licensed under the MIT License.
+
+## Template Author
+
+> Syn
