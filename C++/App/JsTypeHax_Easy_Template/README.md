@@ -54,6 +54,6 @@ Variable 'name' has type 'std::string'.
 ## License
 This project is licensed under the MIT License.
 
-## Template Author
+### Template Author
 
 > Syn
