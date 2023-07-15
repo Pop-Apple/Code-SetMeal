@@ -16,33 +16,6 @@ Enter the URL of payload.elf at line 98 of `『 /payload_loader/main_book/src/me
 
 Finally, enter the URL of `『 ./JsTypeHax 』` is simply uploaded onto the site.  
 
----
-
-```
-homebrew_launcher_installer (elf_installer):
-
-dimok789: original installer)
-
-orboditilt: port to be used with the payload_loader
-
-JsTypeHax_payload (payload_loader):
-
-・Marionumber1: gx2sploit, the used kernel exploit.
-
-・dimok789: This is based on the homebrew launcher installer
-
-・Kinnay: for the KernelCopyData function
-
-JsTypeHax:
-
-・JumpCallPop, jam1garner, hedgeberg: Inital exploit
-
-・yellows8: ROP
-
-・orboditilt: increasing stability
-
-Translated by Pop-Apple
-
 ## Installation
 
 Follow the steps below to install the application:
