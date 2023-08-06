@@ -1,0 +1,11 @@
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\bin\Debug\Draw-CPS.exe.config
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\bin\Debug\Draw-CPS.exe
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\bin\Debug\Draw-CPS.pdb
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\obj\Debug\Draw-CPS.csproj.AssemblyReference.cache
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\obj\Debug\Draw-CPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\obj\Debug\Draw_CPS.Properties.Resources.resources
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\obj\Debug\Draw_CPS.Source.resources
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\obj\Debug\Draw-CPS.csproj.GenerateResource.cache
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\obj\Debug\Draw-CPS.csproj.CoreCompileInputs.cache
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\obj\Debug\Draw-CPS.exe
+C:\Users\Sakam\OneDrive\デスクトップ\Draw-CPS\Draw-CPS\obj\Debug\Draw-CPS.pdb
